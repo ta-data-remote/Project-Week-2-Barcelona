@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
 # Title of My Project
-*[Your Name]*
+Lisa Saunders, Tsvetelina Minkova & Ignacio Rus Prados
+DAFT MAR2021
 
-*[Your Cohort, Campus & Date]*
 
 ## Content
 - [Project Description](#project-description)
@@ -16,28 +16,26 @@
 
 
 ## Project Description
-Write a short introduction to your project: 3-5 sentences about the context of your topic and why you chose it.
+Our project explores the Urban Environment Dataset for Barcelona, where we analyse patterns of three different pollutants: O3, NO2 and PM10.
+The research shows pollution evolution over the day, week and month. It also offers an overview of the areas within Barcelona that are most affected.
 
 ## Questions & Hypotheses
-What are the questions you would like to answer with your analysis? What did you feel were the answers to those questions before answering them with data?
+When can we see the highest levels of pollution?
+Which areas are most affected by pollution?
+Are there significant changes of pollution levels during the day? during the week?
 
 ## Dataset
-What dataset (or datasets) did you use? What is the source of your data? Provide links to the data if available and describe the data briefly.
+We used the Urban Evironment Dataset for Barcelona, which offers hourly and daily pollution levels for O3, NO2 and PM10.
 
-## Database
-What is the structure of your database? Have you created more than one table and if yes, how are they related to each other? Include a drawing or computer-generated image of the ERD (Entity Relationship Diagram) of your database.
 
 ## Workflow
-Outline the workflow you used in your project. What are the steps you went through?
+Our first step was to plan our timeline. After deciding on our deadlines we divided the project and started a list of questions that could be interesting to explore with our dataset.
 
 ## Organization
-How did you organize your work? Did you use any tools like a kanban board?
-
-What does your repository look like? Explain your folder and file structure.
+We used a Kanban board to keep track of our tasks for the project. We summarized our necessary steps in this board and had regular check ins everyday.
 
 ## Links
-Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
 
-[Repository](https://github.com/)  
-[Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+[Repository](https://github.com/IgnacioRus/Project-Week-2-Barcelona.git)  
+[Slides](https://docs.google.com/presentation/d/1aIBM9A2m2_DH6Keqxy7CH0daNFuNeX912AQWhAiYBwI/edit?usp=sharing)  
+[Trello](https://trello.com/invite/b/wr2ikOtw/02a590d9a44ee4d42cac1bfcbf73bbf4/barcelone-urban-environment)  
