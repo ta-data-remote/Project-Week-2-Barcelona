@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of My Project
-*[Your Name]*
+# Barcelona - Accidents (2017)
+*[Faisal Hammad & Sarah Vonderberg]*
 
-*[Your Cohort, Campus & Date]*
+*[DAFT, Remote & MAR21]*
 
 ## Content
 - [Project Description](#project-description)
@@ -16,28 +16,50 @@
 
 
 ## Project Description
-Write a short introduction to your project: 3-5 sentences about the context of your topic and why you chose it.
+For this project we cleaned, reorganized and manipulated a dataset on accidents in Barcelona for the year 2017, to make it more meaningful.
+We answered exciting questions on which neighborhood, date, time and street type is the most dangerous in terms of accidents.
 
-## Questions & Hypotheses
-What are the questions you would like to answer with your analysis? What did you feel were the answers to those questions before answering them with data?
+## Questions
+Q1: Which neighborhood was the most dangerous in Barcelona in 2017 in terms of injuries and victims/vehicles?
+
+Q2: In terms of injuries, victims and vehicles involved, which were the most dangerous times of the year 2017?
+
+This section explores:
+
+Which months, and which part of the month had the most accidents.
+Which days are the most dangerous in terms of transportation accidents.
+During which time of the day accidents happen more frequently?
+
+Q3: Which types of streets are more prone to accidents? Highways, intersections or normal roads?
+
+Q3.1: What is the most common type of accidents in terms of injuries and vehicles involved?
 
 ## Dataset
-What dataset (or datasets) did you use? What is the source of your data? Provide links to the data if available and describe the data briefly.
+We used this Transportation data set: accidents-2017.csv - you can find it in our repo under " datasets".
 
 ## Database
-What is the structure of your database? Have you created more than one table and if yes, how are they related to each other? Include a drawing or computer-generated image of the ERD (Entity Relationship Diagram) of your database.
+The structure of our database is similar to a report with sections going over our workflow and answering the questions. Within these sections we included tables and descriptions.
 
 ## Workflow
-Outline the workflow you used in your project. What are the steps you went through?
+1. Organization via trello
+2. First look at data
+3. Data cleaning
+4. Data analysing
+5. Data manipulation
+6. Conclusions
+7. Presentation
 
 ## Organization
-How did you organize your work? Did you use any tools like a kanban board?
+We organised our project with trello into tasks which are either to do, in progress, done or in review. We also assigned deadlines to some tasks in order to be reminded.
 
-What does your repository look like? Explain your folder and file structure.
+On the first level our repository has a .gitignore file and 2 folders containing the datasets (datasets) as well as our code (your-project).
+The folder "your-code" contains our readme file and 3 jupiter notebooks. We each worked on our workstation or the master_project file in order to not get in conflict with each other.
+The master_project workbook contains the final code.
+
+
 
 ## Links
-Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
 
-[Repository](https://github.com/)  
-[Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+[Repository](https://github.com/Faisal7ammad/Project-Week-2-Barcelona)  
+[Slides](https://drive.google.com/file/d/1S8zppNRXbtlHU1oPj4LvhB5OYx80adNY/view?usp=sharing)  
+[Trello](https://trello.com/b/WFQm5J9J/project-2-barcelona)  
