@@ -21,7 +21,9 @@ The research shows pollution evolution over the day, week and month. It also off
 
 ## Questions & Hypotheses
 When can we see the highest levels of pollution?
+
 Which areas are most affected by pollution?
+
 Are there significant changes of pollution levels during the day? during the week?
 
 ## Dataset
