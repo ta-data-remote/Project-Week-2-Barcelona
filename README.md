@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
 # Welcome to the Barcelona Project!The 50 most frequent names in Barcelona by decade
-* Nathalie Hubl & Jose Martinez *
+* Nathalie Hubl & Jose Martinez 
 
-* DATA ANALYTICS BOOTCAMP - March 2021 *
+* DATA ANALYTICS BOOTCAMP - March 2021 
 
 ## Content
 - [Project Description](#project-description)
@@ -34,10 +34,10 @@ We used a public databese named *most_frequent_names: 50 Most common names of th
 The database was imported as a Comma-Separated Values (CSV)
 
 ## Workflow
-1 Choosing a database related to the city of Barcelona
-2 Asking questions and making hypothesis
-3 Exploring and cleaning data using Pandas library
-4 Finding some insights and final conclusions
+- Choosing a database related to the city of Barcelona
+- Asking questions and making hypothesis
+- Exploring and cleaning data using Pandas library
+- Finding some insights and final conclusions
 
 ## Links
 
