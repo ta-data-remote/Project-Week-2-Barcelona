@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
 # Welcome to the Barcelona Project!The 50 most frequent names in Barcelona by decade
-* Nathalie Hubl & Jose Martinez *
+* Nathalie Hubl & Jose Martinez 
 
-* DATA ANALYTICS BOOTCAMP - March 2021 *
+* DATA ANALYTICS BOOTCAMP - March 2021 
 
 ## Content
 - [Project Description](#project-description)
