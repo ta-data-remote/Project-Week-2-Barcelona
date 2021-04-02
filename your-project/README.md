@@ -1,6 +1,6 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of My Project
+# Air Quality in Barcelona
 Lisa Saunders, Tsvetelina Minkova & Ignacio Rus Prados
 
 DAFT MAR2021
@@ -23,14 +23,14 @@ The research shows pollution evolution over the day, week and month. It also off
 ## Questions & Hypotheses
 - When can we see the highest levels of pollution?
 - Which areas are most affected by pollution?
-- Are there significant changes of pollution levels during the day? during the week?
+- Are there significant changes of pollution levels during the day? And during the week?
 
 ## Dataset
-We used the Urban Evironment Dataset for Barcelona, which offers hourly and daily pollution levels for O3, NO2 and PM10.
+We used the Urban Evironment Dataset for Barcelona, which offers hourly and daily pollution levels for O3, NO2 and PM10. It covers one month of time (November, 2018)
 
 
 ## Workflow
-Our first step was to plan our timeline. After deciding on our deadlines we divided the project and started a list of questions that could be interesting to explore with our dataset.
+Our first step was to plan our timeline. After deciding on our deadlines we divided the project in tasks and investigated a series of questions that could be interesting to explore within our dataset.
 
 ## Organization
 We used a Kanban board to keep track of our tasks for the project. We summarized our necessary steps in this board and had regular check ins everyday.
