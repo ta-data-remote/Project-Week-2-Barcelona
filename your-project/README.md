@@ -1,12 +1,12 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of My Project
-*[Your Name]*
+# Project - Barcelona 
+*[Ayub Pathan, Elina Neu & Dorothea Lowe]*
 
-*[Your Cohort, Campus & Date]*
+*[Data Analytics Remote, 31.06.2021]*
 
 ## Content
-- [Project Description](#project-description)
+- [Project Description:](#project-description)
 - [Questions & Hypotheses](#questions-hypotheses)
 - [Dataset](#dataset)
 - [Database](#database)
@@ -16,28 +16,48 @@
 
 
 ## Project Description
-Write a short introduction to your project: 3-5 sentences about the context of your topic and why you chose it.
+- In this project, we are assigned to work in a team of 3 people to analyse a provided dataset from Barcelona. 
+- We are supposed to select only one dataset from the given list and we decided to work on - "Most frequent baby names in     
+  Barcelona".
+
 
 ## Questions & Hypotheses
-What are the questions you would like to answer with your analysis? What did you feel were the answers to those questions before answering them with data?
+* Search for the 10 most frequent names for male and female over the total time span
+* Find the top 3 names from each year - with highest frequency in each year
+* International vs. given local names for male & female
+* Checking total counts for names starting with A,D, E
+* Preferred shortest & longest name - for male and female
+* Find Spanish names occurring in our class are in the data set
+* Comparison of percentage share male and female during full period
 
 ## Dataset
-What dataset (or datasets) did you use? What is the source of your data? Provide links to the data if available and describe the data briefly.
+- We selected a dataset called - "Most frequent baby names in Barcelona".
+- Dataset was already provided in the project file. 
 
 ## Database
-What is the structure of your database? Have you created more than one table and if yes, how are they related to each other? Include a drawing or computer-generated image of the ERD (Entity Relationship Diagram) of your database.
+* Our dataset has 5 columns and total 1050 entities. We have equally split dataset for male and female names.
+* We have added new tables after analysing dataset according the our results.
+
 
 ## Workflow
-Outline the workflow you used in your project. What are the steps you went through?
+- Discussion in team to select dataset
+- Who will do what approach
+- Communication in a team to keep updated all of us
+- Selecting deepnote to work on one file so not to make a mess with several versions
+- Thought process about exploration of dataset
+- Selection of questions to be answered with mutual understanding and agreement
+- Data mining and analysing 
+- making presentation 
+
 
 ## Organization
-How did you organize your work? Did you use any tools like a kanban board?
-
-What does your repository look like? Explain your folder and file structure.
+- We use Trello to make planning of project work
+- We have one main code file called main.ipynb
+- readme file
+- Presentation file (inside Trello)
 
 ## Links
 Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
 
-[Repository](https://github.com/)  
-[Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+[Repository] (https://github.com/)  
+[Trello](https://trello.com/b/wZBqw956/project-week2)  
