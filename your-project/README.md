@@ -59,5 +59,5 @@
 ## Links
 Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
 
-[Repository] (https://github.com/)  
+[Repository] (https://github.com/ayubpathan2021/Project-Week-2-Barcelona/tree/master/your-project)  
 [Trello](https://trello.com/b/wZBqw956/project-week2)  
